@@ -9,7 +9,7 @@ function App() {
 
   useEffect(() => {
     // Fetch Pokémon data from the database
-    axios.get("http://localhost:4000/").then((response) => {
+    axios.get("https://pokemonelorating.onrender.com/").then((response) => {
       const data = response.data; 
       setPokemons(data);
       setRatings(data.map((pokemon) => pokemon.rating)); 
@@ -61,7 +61,7 @@ function App() {
     setRatings(newRatings);
 
     try {
-      await axios.post("http://localhost:4000/", {
+      await axios.post("https://pokemonelorating.onrender.com/", {
         updates: [
           { id: pokemons[winningIndex]._id, rating: newRatings[winningIndex] },
           { id: pokemons[losingIndex]._id, rating: newRatings[losingIndex] }
