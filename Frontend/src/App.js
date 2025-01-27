@@ -63,8 +63,8 @@ function App() {
     try {
       await axios.post("http://localhost:4000/", {
         updates: [
-          { id: pokemons[winningIndex].id, rating: newRatings[winningIndex] },
-          { id: pokemons[losingIndex].id, rating: newRatings[losingIndex] }
+          { id: pokemons[winningIndex]._id, rating: newRatings[winningIndex] },
+          { id: pokemons[losingIndex]._id, rating: newRatings[losingIndex] }
         ]
       });
       console.log("Rating updated successfully");

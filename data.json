@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Articuno",
+    "image": "https://img.pokemondb.net/artwork/articuno.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Zapdos",
+    "image": "https://img.pokemondb.net/artwork/zapdos.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Moltres",
+    "image": "https://img.pokemondb.net/artwork/moltres.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Mewtwo",
+    "image": "https://img.pokemondb.net/artwork/mewtwo.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Mew",
+    "image": "https://img.pokemondb.net/artwork/mew.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Raikou",
+    "image": "https://img.pokemondb.net/artwork/raikou.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Entei",
+    "image": "https://img.pokemondb.net/artwork/entei.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Suicune",
+    "image": "https://img.pokemondb.net/artwork/suicune.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Lugia",
+    "image": "https://img.pokemondb.net/artwork/lugia.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Ho-Oh",
+    "image": "https://img.pokemondb.net/artwork/ho-oh.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Celebi",
+    "image": "https://img.pokemondb.net/artwork/celebi.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Regirock",
+    "image": "https://img.pokemondb.net/artwork/regirock.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Regice",
+    "image": "https://img.pokemondb.net/artwork/regice.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Registeel",
+    "image": "https://img.pokemondb.net/artwork/registeel.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Latias",
+    "image": "https://img.pokemondb.net/artwork/latias.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Latios",
+    "image": "https://img.pokemondb.net/artwork/latios.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Kyogre",
+    "image": "https://img.pokemondb.net/artwork/kyogre.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Groudon",
+    "image": "https://img.pokemondb.net/artwork/groudon.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Rayquaza",
+    "image": "https://img.pokemondb.net/artwork/rayquaza.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Jirachi",
+    "image": "https://img.pokemondb.net/artwork/jirachi.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Deoxys",
+    "image": "https://img.pokemondb.net/artwork/deoxys.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Uxie",
+    "image": "https://img.pokemondb.net/artwork/uxie.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Mesprit",
+    "image": "https://img.pokemondb.net/artwork/mesprit.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Azelf",
+    "image": "https://img.pokemondb.net/artwork/azelf.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Dialga",
+    "image": "https://img.pokemondb.net/artwork/dialga.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Palkia",
+    "image": "https://img.pokemondb.net/artwork/palkia.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Heatran",
+    "image": "https://img.pokemondb.net/artwork/heatran.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Regigigas",
+    "image": "https://img.pokemondb.net/artwork/regigigas.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Giratina",
+    "image": "https://img.pokemondb.net/artwork/giratina.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Cresselia",
+    "image": "https://img.pokemondb.net/artwork/cresselia.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Phione",
+    "image": "https://img.pokemondb.net/artwork/phione.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Manaphy",
+    "image": "https://img.pokemondb.net/artwork/manaphy.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Darkrai",
+    "image": "https://img.pokemondb.net/artwork/darkrai.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Shaymin",
+    "image": "https://img.pokemondb.net/artwork/shaymin.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Arceus",
+    "image": "https://img.pokemondb.net/artwork/arceus.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Victini",
+    "image": "https://img.pokemondb.net/artwork/victini.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Cobalion",
+    "image": "https://img.pokemondb.net/artwork/cobalion.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Terrakion",
+    "image": "https://img.pokemondb.net/artwork/terrakion.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Virizion",
+    "image": "https://img.pokemondb.net/artwork/virizion.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Tornadus",
+    "image": "https://img.pokemondb.net/artwork/tornadus.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Thundurus",
+    "image": "https://img.pokemondb.net/artwork/thundurus.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Reshiram",
+    "image": "https://img.pokemondb.net/artwork/reshiram.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Zekrom",
+    "image": "https://img.pokemondb.net/artwork/zekrom.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Landorus",
+    "image": "https://img.pokemondb.net/artwork/landorus.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Kyurem",
+    "image": "https://img.pokemondb.net/artwork/kyurem.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Keldeo",
+    "image": "https://img.pokemondb.net/artwork/keldeo.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Meloetta",
+    "image": "https://img.pokemondb.net/artwork/meloetta.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Genesect",
+    "image": "https://img.pokemondb.net/artwork/genesect.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Xerneas",
+    "image": "https://img.pokemondb.net/artwork/xerneas.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Yveltal",
+    "image": "https://img.pokemondb.net/artwork/yveltal.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Zygarde",
+    "image": "https://img.pokemondb.net/artwork/zygarde.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Diancie",
+    "image": "https://img.pokemondb.net/artwork/diancie.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Hoopa",
+    "image": "https://img.pokemondb.net/artwork/hoopa.jpg",
+    "rating": 100
+  },
+  {
+    "name": "Volcanion",
+    "image": "https://img.pokemondb.net/artwork/volcanion.jpg",
+    "rating": 100
+  }
+]
