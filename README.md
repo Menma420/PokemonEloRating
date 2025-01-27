@@ -33,7 +33,7 @@ A React-based web app to simulate Pokémon battles and update their Elo ratings 
 ### Backend  
 - **Node.js**: Runtime environment for building the server-side logic.  
 - **Express.js**: Backend framework for handling routes and API requests.  
-- ~**PostgreSQL**: Relational database for storing Pokémon data and Elo ratings. ~ (not anymore)
+- ~**PostgreSQL**: Relational database for storing Pokémon data and Elo ratings.~ (not anymore)
 - **MongoDb**: NoSQL database for storing Pokémon data and Elo ratings. (updated)
 - **Sequelize**: ORM (Object Relational Mapper) for interacting with the ~PostgreSQL~ Mongodb database.  
 
